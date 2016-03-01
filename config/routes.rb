@@ -3,6 +3,8 @@ Static::Application.routes.draw do
 
   get "pages/contact"
 
+  get "pages/propos"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
